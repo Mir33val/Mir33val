@@ -1,5 +1,6 @@
 
-- 👀 Bana
+-
+
 Selam Ben Emir
 
 Bana marcusbeyy hesabından ulaşım
